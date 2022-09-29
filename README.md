@@ -2,9 +2,9 @@
 
 This README will be helpful for the creation of future package repositories, etc.
 
-## Brands
+## Partners
 
-[![skore logo](https://github.com/mark-anders/relative-image-url/raw/main/logos/logo.png)](https://getskore.com)
+[![skore logo](https://github.com/open-southeners/partners/raw/main/logos/skore_logo.png)](https://getskore.com)
 
 ## License
 
